@@ -18,10 +18,10 @@ const Home = () => {
        </Section> 
       <Projects />
       <Technologies />
-      {/*<Timeline />
-      <Acomplishments /> */}
+      {/*<Acomplishments /> */}
        <Education/>
       <Experience/>
+      <Timeline />
      
     </Layout>
   );

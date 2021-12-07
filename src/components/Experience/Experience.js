@@ -5,14 +5,13 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from '../Tech
 const Experience = () =>  (
 
      
-    <Section id ="edu">
+    <Section id ="exp">
     <SectionDivider/>
     <br/>
-    <SectionTitle>Experince</SectionTitle>
+    <SectionTitle>Experience</SectionTitle>
     <SectionText>
        Tata Consultancy Services
       </SectionText>
-
     <List>
       <ListItem>
         <ListContainer>
@@ -20,7 +19,10 @@ const Experience = () =>  (
             Assistant System Enginner
           </ListTitle>
           <ListParagraph>
-            dfhbvgekjvbekj fe kgbfkv d,bv,mcbvkjdfbvdf jdbnlvwhcilbsdkv jbdfkuv
+            1. SAP Consultant <br/>
+              Technology : LINUX <br/> 
+            2. SAP Developer <br/>
+                Technology : Node Js, Express Js, Hana Db
           </ListParagraph>
         </ListContainer>
       </ListItem>

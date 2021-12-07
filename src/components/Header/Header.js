@@ -29,6 +29,16 @@ const Header = () =>  (
           </Link>
         </li>
         <li>
+          <Link href= "#edu">
+            <NavLink>Education</NavLink>
+          </Link>
+        </li>
+        <li>
+          <Link href= "#exp">
+            <NavLink>Experience</NavLink>
+          </Link>
+        </li>
+        <li>
           <Link href= "#about">
             <NavLink>About</NavLink>
           </Link>
