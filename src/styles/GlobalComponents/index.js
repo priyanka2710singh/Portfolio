@@ -78,7 +78,7 @@ export const SectionText = styled.p`
 
 export const SectionDivider = styled.div`
 
-  width: 64px;
+  width: 100px;
   height: 6px;
   border-radius: 10px;
   background-color: #fff;

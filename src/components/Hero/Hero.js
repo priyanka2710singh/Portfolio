@@ -9,13 +9,15 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle main center>
         Hey there,<br />
-        I'm Priyanka Singh
+        I'm Priyanka Singh.
 
       </SectionTitle>
       <SectionText>
-        I am Building Mern stack Projects
+        I am Building Mern stack Projects.<br/> Passionate about implementing and launching new projects.
+        I have the ability to translate business requirements into technical solutions.
+
       </SectionText>
-      <Button onClick={() => window.location = 'https://google.com'}>Learn More...</Button>
+      <Button onClick={() => window.location = '#about'}>Learn More...</Button>
     </LeftSection>
 
   </Section>
